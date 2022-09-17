@@ -36,6 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+[demo](https://github.com/Chao-Yan-git/Wordle/blob/master/demo.gif)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
